@@ -10,12 +10,12 @@
             "iconURL": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
             "versions": [
                 {
-                    "version": "1.2.38",
-                    "date": "2024-04-24T21:56:51Z",
-                    "localizedDescription": "- **New Feature: Custom Stremio Addon Support**\r\n  - You can now add your own custom Stremio addons to Streamer! These addons currently support IMDB and direct links, but torrent support is not available. Most self-hosted addons should work seamlessly.\r\n\r\n- **Enhancements: Jackett and Annatar Configurations**\r\n  - We've updated the support for Jackett and Annatar configurations. Enjoy improved performance and compatibility.\r\n\r\n- **Bug Fixes and New Provider: Filma24**\r\n  - The Flixtor provider has been fixed, and we've also added a new Albanian provider called Filma24.\r\n  - Additionally, this release includes various small bug fixes and overall improvements.\r\n\r\n<img width=\"627\" alt=\"Custom Stremio Addon Support\" src=\"https://github.com/StreamerApp/Streamer/assets/96978272/50aceceb-27ca-4807-ac95-ced248552149\">\r\n",
+                    "version": "1.2.39",
+                    "date": "2024-05-17T22:20:47Z",
+                    "localizedDescription": "- Integrated Stremio catalogs for movies, series, and anime browsing. More info and tutorial here https://github.com/StreamerApp/Streamer/blob/main/streamio_addons.md\r\n- Added \"mark all as watched\" for the current season's episodes.\r\n- Included Subdl support for subtitle search.\r\n- Fixed touch response issue in Apple player.\r\n- Integrated Outplayer and Vidplayer for iOS.\r\n- Made downloaded files accessible in the Files app for iOS.\r\n- Added option in Advanced settings to enable/disable secure DNS with \"cloudflare\" or \"google\" for backend connectivity issues.\r\n- Resolved seasons selection menu issue on Mac.\r\n\r\n<div align=\"center\">\r\n    <img src=\"https://github.com/StreamerApp/Streamer/assets/96978272/756c8fe6-d485-4ac1-a0b3-4d97721378e5\" width=\"250\" />\r\n    <img src=\"https://github.com/StreamerApp/Streamer/assets/96978272/b903e097-f4df-4aa5-a46b-f3e28e697b8c\" width=\"250\" />\r\n    <img src=\"https://github.com/StreamerApp/Streamer/assets/96978272/85a417aa-4642-4522-8ec9-5c488be0da74\" width=\"250\" />\r\n</div>\r\n<div align=\"center\">\r\n    <img src=\"https://github.com/StreamerApp/Streamer/assets/96978272/be1002bf-7dd2-4f03-8130-4d657a5d2834\" width=\"250\" />\r\n    <img src=\"https://github.com/StreamerApp/Streamer/assets/96978272/99534be0-e479-4571-8220-5bd3cee7acfa\" width=\"250\" />\r\n    <img src=\"https://github.com/StreamerApp/Streamer/assets/96978272/534d24af-165a-4b08-a5f3-d2e1d5f0ff43\" width=\"250\" />\r\n</div>\r\n",
                     "minOSVersion": "14.0",
-                    "downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.38/Streamer-iOS.ipa",
-                    "size": 37008501
+                    "downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.39/Streamer-iOS.ipa",
+                    "size": 37273324
                 }
             ],
             "subtitle": "Streamer App for Streaming Movies and TV shows on iOS, tvOS and Mac",
