@@ -34,4 +34,20 @@ This is a Streamer Pro feature.
 - Does not support addons that offer only subtitles, focusing instead on streaming content. You can use the built-in OpenSubtitles and Subdl providers for subtitles.
 
 
+## Tested Streaming addons
+- Torrentio https://torrentio.strem.fun/configure
+- Jackettio https://jackettio.elfhosted.com/configure
+- Annatar https://annatar.elfhosted.com/
+- Easynews https://ea627ddf0ee7-easynews.baby-beamup.club/configure
+- Jackett Community  https://stremio-jackett.elfhosted.com/configure
+- KnightCrawler https://torrentio.elfhosted.com/configure
+- Mediafusion https://mediafusion.elfhosted.com/configure 
 
+## Tested Catalog addons
+- Cyberflix Catalog https://cyberflix.elfhosted.com/
+- Streaming Catalogs https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/configure
+- Trakt Tv https://2ecbbd610840-trakt.baby-beamup.club/configure/
+- The Movie Database Addon  https://94c8cb9f702d-tmdb-addon.baby-beamup.club/configure
+- Anime Kitsu https://anime-kitsu.strem.fun/
+- Letterboxd https://letterboxd.almosteffective.com/configure/
+- MAL-Stremio Addon https://mal-stremio.vercel.app/configure
